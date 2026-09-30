@@ -1,0 +1,33 @@
+
+first xampp start, after go to terminal click new terminal and cd change to backend directory and nom install check after 
+then command is node server.js
+after the backend connected successful
+move to new terminal then command is npm start
+scan in mobile phone 
+this project run only in same network phone and laptop 
+
+cloudinary connecting setup 
+StudyFLow
+
+.env file
+CLOUDINARY_CLOUD_NAME=dphjcbha1
+CLOUDINARY_API_KEY=312681927781856
+CLOUDINARY_API_SECRET=-REGF4hQIFmFksi-1MGJc3ufAaU
+
+DB_HOST=127.0.0.1
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=studyflow_db
+
+
+
+search_creds.py
+
+search_file('f:/projectfolder/StudyFlow/backend/server.js', 'cloudinary')
+search_file('f:/projectfolder/StudyFlow/backend/server.js', 'dphjcbha1')
+search_file('f:/projectfolder/StudyFlow/backend/server.js', '312681927781856')
+search_file('f:/projectfolder/StudyFlow/backend/server_v2.js', 'cloudinary')
+search_file('f:/projectfolder/StudyFlow/backend/server_v2.js', 'dphjcbha1')
+search_file('f:/projectfolder/StudyFlow/backend/server_v2.js', '312681927781856')
+search_file('f:/projectfolder/StudyFlow/backend/converterEngine.js', 'cloudinary')
+
