@@ -1,0 +1,57 @@
+## UNIT 5 – DASHBOARDS AND VISUAL ANALYTICS (12 HOURS)
+- SYLLABUS
+- Data Story with Dashboards – Introduction to dashboards, Designing Dashboards, Profitability, Interactivity with actionsVisual Analytics – Trends, Clustering, Distributions, and ForecastingAdvanced Visualizations – Slope chart and bump charts, Waterfall charts, Step lines and jump lines, Sparklines, Dumbbell charts, Unit / Symbol Charts, Marimekko charts
+- 1. INTRODUCTION TO DASHBOARDS
+
+## A dashboard in Tableau is an integrated visual interface tha...
+- Unlike individual charts, dashboards emphasize context and relationships between metrics. They are widely used in business intelligence environments to track organizational performance, monitor operational health, and communicate insights to stakeholders who may not be technically trained.
+- 2. DATA STORY WITH DASHBOARDS
+- A data story refers to the structured presentation of insights derived from data. Dashboards serve as storytelling tools by guiding users through patterns, comparisons, and anomalies using visual cues and interactivity.
+- Effective data storytelling involves:• Defining a clear analytical question• Choosing appropriate visualizations• Organizing visuals in a logical narrative flow• Allowing users to explore details when required
+
+## 3. DESIGNING DASHBOARDS
+- Dashboard design is both a technical and cognitive exercise. Poorly designed dashboards can overwhelm users, while well-designed dashboards simplify complex information.
+- Key design principles include:• Clear objectives: Each dashboard should answer specific business questions• Visual hierarchy: Important metrics should be visually prominent• Consistency: Fonts, colors, and layouts should be uniform• Minimalism: Avoid unnecessary decorations or redundant visuals
+- Tableau provides tiled and floating objects, layout containers, and device-specific layouts to support responsive and flexible dashboard design.
+- 4. PROFITABILITY DASHBOARDS
+
+## Profitability dashboards focus on understanding how revenue ...
+- Typical components of a profitability dashboard include:• Sales revenue trends• Cost breakdowns• Profit and profit margin analysis• Comparisons across regions, products, or time periods
+- Interactive profitability dashboards allow managers to drill down into loss-making segments and identify opportunities for improvement.
+- 5. INTERACTIVITY WITH ACTIONS
+
+## Actions transform static dashboards into interactive analyti...
+- Types of actions in Tableau:• Filter Actions – Use one view to filter another• Highlight Actions – Emphasize related data across views• URL Actions – Link dashboards to external resources• Parameter Actions – Dynamically change parameters• Set Actions – Modify set membership through interaction
+- Actions enhance user engagement and reduce the need for multiple static dashboards.
+- 6. VISUAL ANALYTICS – OVERVIEW
+
+## Visual analytics integrates data visualization with analytic...
+- Tableau’s Analytics pane provides built-in tools for trend lines, forecasting, clustering, and distribution analysis, making advanced analytics accessible to non-statisticians.
+- 7. TRENDS
+- Trend analysis examines the general direction in which data is moving over time. Trends help organizations understand growth patterns, seasonal behavior, and long-term changes.
+- Tableau supports multiple trend models such as linear, logarithmic, exponential, and polynomial. Each model is suitable for different types of data behavior.
+
+## 8. CLUSTERING
+- Clustering automatically groups similar data points based on selected measures. It is useful for customer segmentation, performance grouping, and anomaly detection.
+- Clusters help analysts discover natural groupings in data that may not be immediately obvious.
+- 9. DISTRIBUTIONS
+
+## Distribution analysis focuses on how data values are spread ...
+- Common distribution visualizations include histograms, box plots, and density plots.
+- 10. FORECASTING
+- Forecasting uses historical data to predict future values. It supports planning and decision-making under uncertainty.
+- Tableau forecasting models automatically analyze trends and seasonality, providing confidence intervals for predictions.
+
+## 11. ADVANCED VISUALIZATIONS
+- Advanced visualizations address complex analytical questions where basic charts are insufficient.
+- Slope and Bump Charts:• Used to show changes in ranking over time• Effective for competitive analysis
+- Waterfall Charts:• Illustrate cumulative effects of positive and negative values• Commonly used in financial analysis
+- Step Lines and Jump Lines:• Emphasize discrete changes• Useful for policy changes or thresholds
+
+## Sparklines:• Compact trend charts• Suitable for dashboards w...
+- Dumbbell Charts:• Compare two values per category• Highlight differences clearly
+- Unit / Symbol Charts:• Use icons to represent quantities• Improve intuitive understanding
+- Marimekko Charts:• Display proportions across two categorical dimensions• Useful for market and portfolio analysis
+- 12. EXAM-ORIENTED CONCLUSION
+
+## Students should be able to:• Explain dashboard concepts with...

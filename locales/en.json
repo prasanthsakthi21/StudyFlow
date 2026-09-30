@@ -1,0 +1,21 @@
+{
+    "welcome": "Welcome to StudyFlow",
+    "pasteUrl": "Paste YouTube URL",
+    "analyze": "Analyze Video",
+    "summary": "Video Summary",
+    "upload": "Upload",
+    "profile": "Profile",
+    "settings": "Settings",
+    "language": "Language",
+    "edit_profile": "Edit Profile",
+    "account_info": "Account Information",
+    "full_name": "Full Name",
+    "email": "Email",
+    "role": "Role",
+    "joined": "Joined",
+    "storage_usage": "Storage Usage",
+    "used": "Used",
+    "view_breakdown": "View Breakdown",
+    "app_language": "App Language",
+    "log_out": "Log Out"
+}

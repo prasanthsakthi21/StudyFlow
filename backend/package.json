@@ -1,0 +1,43 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx kill-port 3000 && node server.js",
+    "db:init": "node init_db.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "chromium-bidi": "^15.0.0",
+    "cloudinary": "^1.41.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "formdata-node": "^6.0.3",
+    "google-translate-api-x": "^10.7.2",
+    "google-tts-api": "^2.0.2",
+    "he": "^1.2.0",
+    "jsonwebtoken": "^9.0.3",
+    "mammoth": "^1.11.0",
+    "multer": "^2.0.2",
+    "multer-storage-cloudinary": "^4.0.0",
+    "mysql2": "^3.16.0",
+    "natural": "^8.1.0",
+    "node-fetch": "^3.3.2",
+    "officeparser": "^5.2.2",
+    "openai": "^6.17.0",
+    "pdf-parse": "^2.4.5",
+    "puppeteer-core": "^24.37.3",
+    "youtube-caption-scraper": "^1.0.0",
+    "youtube-search-api": "^2.0.1",
+    "youtube-transcript": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
